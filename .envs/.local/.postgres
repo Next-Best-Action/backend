@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=next_best_action
+POSTGRES_USER=cDJhqfALKxaWxrzlLanTfMjtxPkPJcBi
+POSTGRES_PASSWORD=YwPuqOUNqhuhWWPzoEMyCkvLncHkYh3aCYIafdXkGKfa33YbXw90gYvqLIe4vpgC
